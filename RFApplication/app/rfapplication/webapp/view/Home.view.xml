@@ -1,0 +1,9 @@
+<mvc:View controllerName="com.app.rfapplication.controller.Home"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}" titleAlignment="Center">
+        <content >
+        <Text id="idText" class="sapUiLargeMargin"  text="Welcome To the SAP BTP World!!"/>
+        </content>
+    </Page>
+</mvc:View>

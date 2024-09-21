@@ -1,0 +1,3 @@
+systemid,InstanceNo,Description,Client,ApplicationServer,SapRouterString,SapService
+AKE,06,AKE SAP System,400,20.163.232.25,,
+AKE,06,AKE SAP System,100,20.163.232.25,,
