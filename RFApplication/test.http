@@ -1,0 +1,16 @@
+### Read Data
+
+GET http://localhost:4004/v2/RFApplicationSRV/SystemConfiguration HTTP/1.1
+
+### Create Data
+
+POST http://localhost:4004/RFApplicationSRV/SystemConfiguration HTTP/1.1
+Content-Type:application/json
+
+{
+        "systemid":"S4H",
+        "InstanceNo": "5",
+        "Client": "100",
+        "Description": "AKE SAP System",
+        "ApplicationServer": "20.163.232.25"
+}

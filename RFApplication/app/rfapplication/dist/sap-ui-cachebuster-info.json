@@ -1,0 +1,23 @@
+{
+  "view/Home.view.xml": 1727151928735,
+  "controller/Home.controller.js": 1727153508764,
+  "model/models.js": 1726939243008,
+  "controller/App.controller.js": 1726939243016,
+  "manifest.json": 1727156154931,
+  "Component.js": 1726939243008,
+  "model/models-dbg.js": 1726939243008,
+  "model/models.js.map": 1727156155173,
+  "controller/Home-dbg.controller.js": 1727153508764,
+  "controller/Home.controller.js.map": 1727156155203,
+  "controller/App-dbg.controller.js": 1726939243016,
+  "controller/App.controller.js.map": 1727156155180,
+  "Component-dbg.js": 1726939243008,
+  "Component.js.map": 1727156155182,
+  "Component-preload.js": 1727156155314,
+  "Component-preload.js.map": 1727156155314,
+  "i18n/i18n.properties": 1726939261576,
+  "view/App.view.xml": 1726939243020,
+  "fragments/ConnecttoSAP.fragment.xml": 1727090938154,
+  "css/style.css": 1727073646586,
+  "index.html": 1726939243008
+}
